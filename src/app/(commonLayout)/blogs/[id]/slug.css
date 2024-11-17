@@ -1,0 +1,17 @@
+.section.blogdetail {
+  padding-top: 0px;
+}
+
+.blog-content {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.blog-content .right {
+  flex-basis: 20%;
+}
+
+.blog-content .middle {
+  flex-basis: 55%;
+}

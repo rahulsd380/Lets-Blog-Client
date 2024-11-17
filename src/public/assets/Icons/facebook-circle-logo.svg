@@ -1,0 +1,21 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="facebook-circle-logo" clip-path="url(#clip0_1_2226)">
+<g id="Clip path group">
+<mask id="mask0_1_2226" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<g id="clip0_764_19547">
+<path id="Vector" d="M24 0.0366211H0V24.0366H24V0.0366211Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_2226)">
+<g id="Group">
+<path id="Vector_2" d="M12.0009 0.170166C5.44075 0.170166 0.12207 5.48884 0.12207 12.049C0.12207 17.9771 4.46539 22.8907 10.1453 23.7853V15.4835H7.12771V12.049H10.1453V9.4318C10.1453 6.45231 11.9189 4.8093 14.6311 4.8093C15.9308 4.8093 17.2922 5.04096 17.2922 5.04096V7.96226H15.7906C14.3175 7.96226 13.8565 8.87937 13.8565 9.81914V12.0466H17.1485L16.6222 15.4811H13.8565V23.7829C19.5364 22.8931 23.8797 17.9783 23.8797 12.049C23.8797 5.48884 18.561 0.170166 12.0009 0.170166Z" fill="#4D4D4D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2226">
+<rect width="24" height="24" fill="white" transform="translate(0 0.0366211)"/>
+</clipPath>
+</defs>
+</svg>
